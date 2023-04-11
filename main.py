@@ -41,7 +41,7 @@ prompt = PromptTemplate(
     template=template,
 )
 
-llm = OpenAI(temperature=1, openai_api_key='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')
+llm = OpenAI(temperature=1, openai_api_key=opeanai_api_key)
 
 st.set_page_config(page_title="Holiday Planner", page_icon=":robot:")
 st.header("Holiday Planner")
