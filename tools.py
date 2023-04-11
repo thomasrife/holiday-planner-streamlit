@@ -1,0 +1,1 @@
+seasons = ['Summer', 'Autumn', 'Winter', 'Spring']
