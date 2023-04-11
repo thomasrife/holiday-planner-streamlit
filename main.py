@@ -51,7 +51,7 @@ col1, col2 = st.columns(2)
 with col1:
     st.markdown("Are you looking for guidance on what to do and where to go? Our website provides the perfect solution. Simply enter the city you're planning to visit, along with the season of your stay, and we'll help you plan your itinerary. \n\n This tool \
                 is powered by [LangChain](https://langchain.com/) and [OpenAI](https://openai.com) and made by \
-                [@elthomate](https://twitter.com/elthomate). \n\n View Source Code on [Github](https://github.com/gkamradt/globalize-text-streamlit/blob/main/main.py)")
+                [@elthomate](https://twitter.com/elthomate). \n\n View Source Code on [Github](https://github.com/thomasrife/holiday-planner-streamlit/blob/main/main.py)")
 
 with col2:
     st.image(image="hiroshi_nagai.jpg", width=500, caption="Hiroshi Nagai ©")
